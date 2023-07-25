@@ -1,0 +1,23 @@
+{
+    "name": "eslint-config-memo",
+    "version": "0.1.0",
+    "description": "Media Motion AG eslint configuration",
+    "main": "index.js",
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "author": "Media Motion AG",
+    "license": "MIT",
+    "peerDependencies": {
+        "eslint": ">= 3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mediamotionag/eslint-config-memo.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mediamotionag/eslint-config-memo/issues"
+    },
+    "homepage": "https://github.com/mediamotionag/eslint-config-memo#readme"
+}
